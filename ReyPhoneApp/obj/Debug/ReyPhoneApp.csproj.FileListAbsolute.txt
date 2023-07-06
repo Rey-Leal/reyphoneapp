@@ -1,0 +1,11 @@
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\Bin\Debug\Background.png
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\obj\Debug\App.g.i.cs
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\obj\Debug\MainPage.g.i.cs
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\obj\Debug\ReyPhoneApp.g.resources
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\obj\Debug\ReyPhoneApp.dll
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\obj\Debug\ReyPhoneApp.pdb
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\Bin\Debug\ReyPhoneApp.dll
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\Bin\Debug\ReyPhoneApp.pdb
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\Bin\Debug\AppManifest.xaml
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\Bin\Debug\ReyPhoneApp.xap
+d:\reinaldo\documents\visual studio 2010\Projects\ReyPhoneApp\ReyPhoneApp\obj\Debug\XapCacheFile.xml
